@@ -46,3 +46,9 @@ Aprovado!
 
 ```bash
 python calculadora_media.py
+
+## 👤 Autor
+
+**Arthur Bomfim Andrade**
+Linkdin: www.linkedin.com/in/arthurbomfimandrade
+
